@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1552404766 source:d:\workstation\projects\development\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1552311481 d:\workstation\projects\development\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1552311814 d:\workstation\projects\development\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1552312247 d:\workstation\projects\development\keylogger\base64.h
+	<vector>
+	<string>
+
+1552312412 d:\workstation\projects\development\keylogger\io.h
+	<string>
+	<cstdlib>
+	"Helper.h"
+	"windows.h"
+	"Base64.h"
+
+1552400495 d:\workstation\projects\development\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1552405369 d:\workstation\projects\development\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1552404825 d:\workstation\projects\development\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"winable.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1552399958 source:e:\projects\development\c++\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"KeybHook.h"
+
+1552407461 e:\projects\development\c++\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1552399957 e:\projects\development\c++\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1552399958 e:\projects\development\c++\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1552407387 e:\projects\development\c++\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1552399957 e:\projects\development\c++\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1552399957 e:\projects\development\c++\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+
+1552399957 e:\projects\development\c++\keylogger\base64.h
+	<vector>
+	<string>
+
